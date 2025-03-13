@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Web1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|c:\\users\\sandh\\source\\repos\\web1\\web1\\pages\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|solutionrelative:web1\\pages\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|c:\\users\\sandh\\source\\repos\\web1\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|solutionrelative:web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|c:\\users\\sandh\\source\\repos\\web1\\web1\\pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|solutionrelative:web1\\pages\\employee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|c:\\users\\sandh\\source\\repos\\web1\\web1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|solutionrelative:web1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|c:\\users\\sandh\\source\\repos\\web1\\web1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD48752A-A4EE-44FB-913E-0EFE32C656B3}|Web1\\Web1.csproj|solutionrelative:web1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Employee.cshtml.cs",
+              "RelativeDocumentMoniker": "Web1\\Pages\\Employee.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Employee.cshtml.cs",
+              "RelativeToolTip": "Web1\\Pages\\Employee.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:43:19.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Program.cs",
+              "RelativeDocumentMoniker": "Web1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Program.cs",
+              "RelativeToolTip": "Web1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:37:12.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Employee.cs",
+              "RelativeDocumentMoniker": "Web1\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Employee.cs",
+              "RelativeToolTip": "Web1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T05:36:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Employee.cshtml",
+              "RelativeDocumentMoniker": "Web1\\Pages\\Employee.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Employee.cshtml",
+              "RelativeToolTip": "Web1\\Pages\\Employee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T05:35:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Web1\\Web1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T05:31:12.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

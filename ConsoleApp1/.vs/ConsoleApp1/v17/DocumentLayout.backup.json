@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\missrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\missrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\cons10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cons10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\strrev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\strrev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\secondmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\secondmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\quizday2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\quizday2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\dupch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dupch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\dele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\dele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sandh\\source\\repos\\consoleapp1\\consoleapp1\\ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E317965-1B8A-4A46-AEC2-40E6CC98F240}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:45:55.435Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cons10.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Cons10.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Cons10.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Cons10.cs",
+              "RelativeToolTip": "ConsoleApp1\\Cons10.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:29:39.561Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissRep.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MissRep.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MissRep.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MissRep.cs",
+              "RelativeToolTip": "ConsoleApp1\\MissRep.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:59:04.767Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dele.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\dele.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\dele.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\dele.cs",
+              "RelativeToolTip": "ConsoleApp1\\dele.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:02:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrRev.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\StrRev.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StrRev.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\StrRev.cs",
+              "RelativeToolTip": "ConsoleApp1\\StrRev.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:56:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DupCh.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DupCh.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DupCh.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DupCh.cs",
+              "RelativeToolTip": "ConsoleApp1\\DupCh.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:46:27.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Secondmax.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Secondmax.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Secondmax.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Secondmax.cs",
+              "RelativeToolTip": "ConsoleApp1\\Secondmax.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:09:00.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ch.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ch.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ch.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ch.cs",
+              "RelativeToolTip": "ConsoleApp1\\ch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:56:21.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "quizday2.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\quizday2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\quizday2.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\ConsoleApp1\\ConsoleApp1\\quizday2.cs",
+              "RelativeToolTip": "ConsoleApp1\\quizday2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:51:06.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

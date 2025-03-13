@@ -1,0 +1,18 @@
+﻿@page
+@model Web1.Pages.EmployeeModel
+@{
+	ViewData["Title"]="Get Employee Page";
+}
+<div>
+	<table>
+		<tr>
+			<td>
+				<label>
+					Name:@Model.EmployeeList.FirstOrDefault(x=>x.ID==Model.ID)?.FirstName
+					<br>
+					LastName:@Model.EmployeeList.FirstOrDefault(x => x.ID == Model.ID)?.LastName
+				</label>
+			</td>
+		</tr>
+	</table>
+</div>
