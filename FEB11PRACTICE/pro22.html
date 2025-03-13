@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <script>
+            var newArr=new Array(
+                {empno:1,empname:"sandhya",desig:"engg",basic:60000,dept:"dotnet"},
+                {empno:2,empname:"varun",desig:"java",basic:63900,dept:"developer"},
+                {empno:3,empname:"bahnu",desig:"python",basic:90000,dept:"r&d"},
+                {empno:4,empname:"nithya",desig:"software",basic:70000,dept:"hr"},
+                {empno:5,empname:"hello",desig:"designer",basic:86000,dept:"product"},
+            );
+            
+        </script>
+    </head>
+    <body>
+        <table border="3" align="center">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Designation</th>
+                <th>Basic</th>
+                <th>Department</th>
+
+            </tr>
+            <script>
+                for(var i in newArr)
+                {
+                    document.writeln("<tr>");
+                    document.writeln("<td>"+newArr[i].empno+"</td>");
+                    document.writeln("<td>"+newArr[i].empname+"</td>");
+                    document.writeln("<td>"+newArr[i].desig+"</td>");
+                    document.writeln("<td>"+newArr[i].basic+"</td>");
+                    document.writeln("<td>"+newArr[i].dept+"</td>");
+                    document.writeln("</tr>");
+                }
+            </script>
+
+        </table>
+    </body>
+</html>

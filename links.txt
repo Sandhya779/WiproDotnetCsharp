@@ -1,0 +1,23 @@
+https://www.c-sharpcorner.com/blogs/difference-between-string-and-stringbuilder-in-c-sharp1
+
+https://www.c-sharpcorner.com/article/boxing-and-unboxing-in-C-Sharp/
+
+dotnettutorials.net/course
+
+https://www.javatpoint.com/type-of-assembly-in-c-sharp
+
+https://medium.com/@devmaleeq/c-assemblies-compiler-and-everything-in-between-8697c3e6c496
+
+
+********************************************************************
+
+Ref Links for all the topics
+1. https://www.geeksforgeeks.org/differences-between-net-core-and-net-framework/
+2. https://www.c-sharpcorner.com/article/net-co-architecture-features-and-advantages-explained/
+3. https://dotnettutorials.net/lesson/net-framework-architecture-and-components/
+4. https://medium.com/@stevenpereira13/simplifying-net-terminologies-db1ad00b0cd7
+5. https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/
+6. https://www.c-sharpcorner.com/UploadFile/puranindia/jagged-arrays-in-C-Sharp-net/
+7. https://dotnettutorials.net/lesson/collections-csharp/
+8. https://dotnettutorials.net/lesson/file-handling-in-csharp/
+9. https://www.c-sharpcorner.com/article/exception-handling-in-C-Sharp/

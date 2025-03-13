@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <script>
+            function show()
+            {
+                var fname=formData.fname.value;
+                document.getElementById("hi").innerHTML="Student Name:<b> " +fname +"</b>";
+            }
+            
+        </script>
+
+    </head>
+    <body>
+        <form name="formData" method="get" action="javascript:show()">
+            <center>
+                First Name:
+                <input type="text" placeholder="enter name" name="fname" />
+                <input type="submit" value="show"/>
+                <span id="hi"></span>
+            </center>
+        </form>
+        
+    </body>
+</html>

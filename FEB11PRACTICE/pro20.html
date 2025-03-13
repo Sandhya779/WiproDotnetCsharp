@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script>
+            function addList()
+            {
+                var po=document.createElement("li");
+                po.innerHTML="Programming";
+                var x=document.getElementById("s");
+                x.insertBefore(po,x.children[2]);
+            }
+        </script>
+
+    </head>
+    <body onload="addList()">
+        <ol type="1" id="s">
+            <li>Sandhya</li>
+            <li>Hello</li>
+            <li>welcome</li>
+            <li>world</li>
+            <li>MMIRR</li>
+        </ol>
+    </body>
+</html>

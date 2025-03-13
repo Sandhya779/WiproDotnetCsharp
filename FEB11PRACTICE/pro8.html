@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <script>
+            
+            function sum()
+            {
+                if(formcal.firstno.value=="")
+                {
+                    document.getElementById("error1").innerHTML="Enter first number ";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                if(formcal.secondno.value=="")
+                {
+                    document.getElementById("error2").innerHTML="Enter second number";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                var first=parseInt(formcal.firstno.value);
+                var second=parseInt(formcal.secondno.value);
+                var res=first+second;
+                formcal.result.value=res;
+            }
+            function sub()
+            {
+                if(formcal.firstno.value=="")
+                {
+                    document.getElementById("error1").innerHTML="Enter first number ";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                if(formcal.secondno.value=="")
+                {
+                    document.getElementById("error2").innerHTML="Enter second number";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                var first=parseInt(formcal.firstno.value);
+                var second=parseInt(formcal.secondno.value);
+                var res=first-second;
+                formcal.result.value=res;
+            }
+            function mul()
+            {
+                if(formcal.firstno.value=="")
+                {
+                    document.getElementById("error1").innerHTML="Enter first number ";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                if(formcal.secondno.value=="")
+                {
+                    document.getElementById("error2").innerHTML="Enter second number";
+                    return;
+                }else{
+                    document.getElementById("error1").innerHTML="";
+                }
+                var first=parseInt(formcal.firstno.value);
+                var second=parseInt(formcal.secondno.value);
+                var res=first*second;
+                formcal.result.value=res;
+            }
+        </script>
+
+
+    </head>
+    <body>
+        <form name="formcal">
+            <table border="3" align="center">
+                <tr>
+                    <th colspan="2"> Calculator</th>
+                </tr>
+                <tr>
+                    <th>First Number</th>
+                    <td>
+                        <input type="number" name="firstno" />
+                        <span id="error1" style="color: red; "></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th> Second Number</th>
+                    <td>
+                        <input type="number" name="secondno"/>
+                        <span id="error2" style="color:red;"></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        Result
+                    </th>
+                    <td>
+                        <input type="number" name="result"/>
+                    </td>
+                </tr>
+                <tr>
+                    <th colspan="2">
+                        <input type="button" value="sum" onclick="sum()"/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="button" value="subtract" onclick="sub()"/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="button" value="multiply" onclick="mul()"/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    </th>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

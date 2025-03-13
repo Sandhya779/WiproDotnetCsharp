@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script>
+            function sum()
+            {
+                var fnum=parseInt(hii.first.value);
+                var snum=parseInt(hii.second.value);
+                var sum=fnum+snum;
+                alert(sum);
+                var result=document.createElement("span");
+                result.innerText="Sum is "+sum;
+                document.body.appendChild(result);
+
+            }
+        </script>
+
+    </head>
+    <body>
+        <form name="hii">
+            First number:
+            <input type="number" name="first"/>
+            Second number:
+            <input type="number" name="second"/>
+            <br/><br/>
+            <input type="button" value="Sum" onclick="sum()"/>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <script>
+            var names=[
+            "sandhya","snigdha","rashi","kajal","deeepika"
+            ];
+            function display(){
+                for(var v in names){
+                    console.log(v +" "+names[v]);
+                }
+            }
+            const show=(...names) =>{
+                names.forEach(x=>{
+                    console.log(x);
+                })
+            }
+            
+        </script>
+    </head>
+    <body>
+        <script>
+            show(...names);
+            show(names);
+        </script>
+    </body>
+</html>

@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <script>
+            var questions=[
+            "1.What is CLR?",
+            "2.What is .Net core?",
+            "3.What are OOPs concepts?",
+            "4.What are delegates used for?"
+            ]
+            var total=questions.length;
+            var queno=0;
+        
+            function show()
+            {
+                document.getElementById("question").innerHTML=questions[queno];
+            }
+            function prev()
+            {
+                queno--;
+                if(queno<0){
+                    queno=0;
+                }
+                show()
+            }
+            
+            function next()
+            {
+                queno++;
+                if(queno>=total){
+                    queno=total-1;
+                }
+                
+                show()
+            }
+            
+        </script>
+    </head>
+    <body onload="show()">
+        <p id="question" ></p>
+        <input type="button" value="Prev" onclick="prev()"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" value="Next" onclick="next()"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script>
+            function show()
+            {
+                var res="";
+                var str="Welcome to dot net programming!!!";
+                res+=str.length;
+                res=str.indexOf('l');
+                res=str.charAt(11);
+                res=str.toLowerCase();
+                res=str.toUpperCase();
+                res=str.substring(4,11);
+                res=str.replace('o','@');
+                document.getElementById("out").innerHTML=res;
+            }
+        </script>
+
+    </head>
+    <body onload="show()">
+        <span id="out"></span>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script>
+            employees=[
+            {empno:1,name:"sandhya",basic:60000},
+            {empno:2,name:"hello",basic:70000},
+            {empno:3,name:"hii",basic:65000},
+            {empno:4,name:"world",basic:68000},
+            {empno:5,name:"water",basic:69000},
+            ];
+            const show=()=>{
+                var result=employees.filter(e =>e.basic>=68000);
+                console.log(result);
+                
+            }
+
+        </script>
+    </head>
+    <body onload="show()">
+
+    </body>
+</html>

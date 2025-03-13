@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <script>
+            function show()
+            {
+                var para=document.createElement("p");
+                para.innerText="This is element in p.";
+                var div=document.getElementById("id1");
+                document.body.insertBefore(para,div);
+            }
+            
+        </script>
+    </head>
+    <body onload="show()">
+        <div id="id1">THis is a sample div..</div>
+    </body>
+</html>

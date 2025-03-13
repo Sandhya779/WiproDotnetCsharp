@@ -1,0 +1,23 @@
+<html><head>
+    <script>
+        function show()
+        {
+            var li=["sandhya","hello","world","tree","water"];
+            var result=""
+            alert(li[2]);
+            for(var v in li)
+            {
+                alert(li[v]);
+                result+=li[v]+" ";
+                //console.log(v);
+            }
+            document.getElementById("how").innerHTML=result;
+
+        }
+    </script>
+
+</head>
+<body onload="show()">
+    <span id="how"></span>
+</body>
+</html>
