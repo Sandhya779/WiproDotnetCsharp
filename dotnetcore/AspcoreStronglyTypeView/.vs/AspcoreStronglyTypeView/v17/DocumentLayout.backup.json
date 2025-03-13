@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\controllers\\employeeportalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\controllers\\employeeportalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\views\\employeeportal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\views\\employeeportal\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\views\\employeeportal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\views\\employeeportal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\views\\employeeportal\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\views\\employeeportal\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeview\\aspcorestronglytypeview\\views\\employeeportal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2299ED2D-6B3A-465B-962E-010F7BEDFF74}|AspcoreStronglyTypeView\\AspcoreStronglyTypeView.csproj|solutionrelative:aspcorestronglytypeview\\views\\employeeportal\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Delete.cshtml",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T09:49:31.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Edit.cshtml",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T09:38:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Create.cshtml",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Create.cshtml",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:55:26.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Views\\EmployeePortal\\Index.cshtml",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Views\\EmployeePortal\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:54:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Models\\Employee.cs",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:53:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePortalController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Controllers\\EmployeePortalController.cs",
+              "RelativeDocumentMoniker": "AspcoreStronglyTypeView\\Controllers\\EmployeePortalController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspcoreStronglyTypeView\\AspcoreStronglyTypeView\\Controllers\\EmployeePortalController.cs",
+              "RelativeToolTip": "AspcoreStronglyTypeView\\Controllers\\EmployeePortalController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:52:20.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

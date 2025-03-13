@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa+KLkHzWOw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandh\\OneDrive\\Desktop\\wiproIII\\dotnetcore\\corewebapi\\corewebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Sandh\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

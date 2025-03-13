@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\models\\modelbuildextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\models\\modelbuildextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\models\\itrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\models\\itrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoreefcorecodefirstwebapp\\aspcoreefcorecodefirstwebapp\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60CA5B66-474B-4EBB-B063-A96762E308E1}|AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp.csproj|solutionrelative:aspcoreefcorecodefirstwebapp\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:27:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Program.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:01:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\appsettings.json",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T11:57:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuildExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\ModelBuildExtensions.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Models\\ModelBuildExtensions.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\ModelBuildExtensions.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Models\\ModelBuildExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:50:53.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:47:34.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\Skill.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:07:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITRole.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\ITRole.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Models\\ITRole.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\ITRole.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Models\\ITRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:05:38.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AspCoreEFCoreCodeFirstWebApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreEFCoreCodeFirstWebApp\\AspCoreEFCoreCodeFirstWebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "AspCoreEFCoreCodeFirstWebApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:47:22.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

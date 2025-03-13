@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o8dUWLdmxkUobX+x5e9uiQwqN4PavMzSwG2wOG00nkg=",
+  "Source": "JWTAuthJWTBearerWebApi",
+  "BasePath": "_content/JWTAuthJWTBearerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

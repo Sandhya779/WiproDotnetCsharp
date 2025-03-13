@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EmployeeRegistration</title>
+</head>
+<body>
+    <form asp-action="Create" asp-controller="Controller1" method="post">
+        <input type="text" name="EmployeeCode" placeholder="empcode" required /><br/>
+        <input type="text" name="EmployeeName" placeholder="empname" required /><br />
+        <input type="text" name="EmployeeDesig" placeholder="empdesig" required /><br />
+        <input type="text" name="EmployeeDept" placeholder="empdept" required /><br />
+        <input type="submit" />
+    </form>
+</body>
+</html>

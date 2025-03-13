@@ -1,0 +1,14 @@
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\bin\Debug\net9.0\coreConsoleAPp.exe
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\bin\Debug\net9.0\coreConsoleAPp.deps.json
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\bin\Debug\net9.0\coreConsoleAPp.runtimeconfig.json
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\bin\Debug\net9.0\coreConsoleAPp.dll
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\bin\Debug\net9.0\coreConsoleAPp.pdb
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.AssemblyInfoInputs.cache
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.AssemblyInfo.cs
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.csproj.CoreCompileInputs.cache
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.dll
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\refint\coreConsoleAPp.dll
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.pdb
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\coreConsoleAPp.genruntimeconfig.cache
+C:\Users\Sandh\OneDrive\Desktop\wiproIII\dotnetcore\coreConsoleAPp\obj\Debug\net9.0\ref\coreConsoleAPp.dll

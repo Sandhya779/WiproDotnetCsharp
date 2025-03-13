@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|solutionrelative:aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp\\controllers\\employeeportalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|solutionrelative:aspcorestronglytypeviewwebapp\\controllers\\employeeportalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|solutionrelative:aspcorestronglytypeviewwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp\\views\\shared\\_employeelayout .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|solutionrelative:aspcorestronglytypeviewwebapp\\views\\shared\\_employeelayout .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcorestronglytypeviewwebapp\\aspcorestronglytypeviewwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435814A3-D47E-45B5-8E4E-DCC6F61B4954}|AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj|solutionrelative:aspcorestronglytypeviewwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspCoreStronglyTypeViewWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj",
+              "RelativeDocumentMoniker": "AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj",
+              "RelativeToolTip": "AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T07:34:26.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AspCoreStronglyTypeViewWebApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "AspCoreStronglyTypeViewWebApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:02:06.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T07:00:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeePortalController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Controllers\\EmployeePortalController.cs",
+              "RelativeDocumentMoniker": "AspCoreStronglyTypeViewWebApp\\Controllers\\EmployeePortalController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Controllers\\EmployeePortalController.cs",
+              "RelativeToolTip": "AspCoreStronglyTypeViewWebApp\\Controllers\\EmployeePortalController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:00:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_EmployeeLayout .cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_EmployeeLayout .cshtml",
+              "RelativeDocumentMoniker": "AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_EmployeeLayout .cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspCoreStronglyTypeViewWebApp\\AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_EmployeeLayout .cshtml",
+              "RelativeToolTip": "AspCoreStronglyTypeViewWebApp\\Views\\Shared\\_EmployeeLayout .cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T06:57:32.783Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

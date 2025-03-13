@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp1\\aspcoredemowebapp1\\views\\controller1\\employeeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|solutionrelative:aspcoredemowebapp1\\views\\controller1\\employeeregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp1\\aspcoredemowebapp1\\controllers\\controller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|solutionrelative:aspcoredemowebapp1\\controllers\\controller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp1\\aspcoredemowebapp1\\views\\controller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|solutionrelative:aspcoredemowebapp1\\views\\controller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp1\\aspcoredemowebapp1\\views\\controller1\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|solutionrelative:aspcoredemowebapp1\\views\\controller1\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp1\\aspcoredemowebapp1\\views\\controller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7ED4916-E9CC-4E28-8731-871EB3DBA588}|aspcoredemoWebApp1\\aspcoredemoWebApp1.csproj|solutionrelative:aspcoredemowebapp1\\views\\controller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\EmployeeRegistration.cshtml",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp1\\Views\\Controller1\\EmployeeRegistration.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\EmployeeRegistration.cshtml",
+              "RelativeToolTip": "aspcoredemoWebApp1\\Views\\Controller1\\EmployeeRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T06:37:52.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp1\\Views\\Controller1\\ShowData.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\ShowData.cshtml",
+              "RelativeToolTip": "aspcoredemoWebApp1\\Views\\Controller1\\ShowData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T05:42:43.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\Create.cshtml",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp1\\Views\\Controller1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\Create.cshtml",
+              "RelativeToolTip": "aspcoredemoWebApp1\\Views\\Controller1\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T05:26:38.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\Index.cshtml",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp1\\Views\\Controller1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Views\\Controller1\\Index.cshtml",
+              "RelativeToolTip": "aspcoredemoWebApp1\\Views\\Controller1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T04:50:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller1.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Controllers\\Controller1.cs",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp1\\Controllers\\Controller1.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp1\\aspcoredemoWebApp1\\Controllers\\Controller1.cs",
+              "RelativeToolTip": "aspcoredemoWebApp1\\Controllers\\Controller1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:46:19.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

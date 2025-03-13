@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\views\\notification\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\controllers\\dependencydemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\controllers\\dependencydemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\models\\businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\models\\businesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\models\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\models\\igreetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\models\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\models\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspdotnetcoredependencyinjection\\aspdotnetcoredependencyinjection\\models\\mssqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1CEF4B9-9022-4E5B-B14C-8C8C0C55F978}|AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection.csproj|solutionrelative:aspdotnetcoredependencyinjection\\models\\mssqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MSSQLSERVER.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\MSSQLSERVER.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Models\\MSSQLSERVER.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\MSSQLSERVER.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Models\\MSSQLSERVER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:41:02.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\DependencyDemoController.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Controllers\\DependencyDemoController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\DependencyDemoController.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Controllers\\DependencyDemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:37:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\BusinessLogic.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Models\\BusinessLogic.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\BusinessLogic.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Models\\BusinessLogic.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:29:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\ICRUD.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Models\\ICRUD.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\ICRUD.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Models\\ICRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:25:05.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\Employee.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:23:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:21:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:18:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Views\\Notification\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Views\\Notification\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Views\\Notification\\Index.cshtml",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Views\\Notification\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:14:07.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:09:10.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGreetingService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\IGreetingService.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Models\\IGreetingService.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Models\\IGreetingService.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Models\\IGreetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:04:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "AspDotNetCoreDependencyInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\AspDotNetCoreDependencyInjection\\AspDotNetCoreDependencyInjection\\Program.cs",
+              "RelativeToolTip": "AspDotNetCoreDependencyInjection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:13:24.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\bin\Debug\ADOCSharpDemo.exe.config
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\bin\Debug\ADOCSharpDemo.exe
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\bin\Debug\ADOCSharpDemo.pdb
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\obj\Debug\ADOCSharpDemo.csproj.AssemblyReference.cache
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\obj\Debug\ADOCSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\obj\Debug\ADOCSharpDemo.exe
+C:\Users\Sandh\source\repos\Dotnetcore\ADOCSharpDemo\ADOCSharpDemo\obj\Debug\ADOCSharpDemo.pdb

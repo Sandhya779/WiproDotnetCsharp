@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8508E01-6C82-49FD-9675-89380E4AA4A8}|aspcoredemoWebApp\\aspcoredemoWebApp.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapp\\aspcoredemowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8508E01-6C82-49FD-9675-89380E4AA4A8}|aspcoredemoWebApp\\aspcoredemoWebApp.csproj|solutionrelative:aspcoredemowebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp\\aspcoredemoWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspcoredemoWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApp\\aspcoredemoWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspcoredemoWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:36:30.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

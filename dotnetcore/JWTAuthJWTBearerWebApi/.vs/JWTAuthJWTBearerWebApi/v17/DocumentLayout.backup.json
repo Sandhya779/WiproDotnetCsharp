@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\controllers\\itrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\controllers\\itrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\models\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\jwtauthjwtbearerwebapi\\jwtauthjwtbearerwebapi\\models\\itrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF399DD8-CB8A-41C8-8413-A30EF04E5606}|JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj|solutionrelative:jwtauthjwtbearerwebapi\\models\\itrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Controllers\\SkillsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:10:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\ITRolesController.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Controllers\\ITRolesController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\ITRolesController.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Controllers\\ITRolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:08:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:07:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Program.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:57:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\appsettings.json",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAACAZmZmZmYEwAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T06:55:42.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Models\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Models\\ModelBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:42:05.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:41:23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\Skill.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Models\\Skill.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:40:08.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:36:47.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JWTAuthJWTBearerWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T06:34:26.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITRole.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\ITRole.cs",
+              "RelativeDocumentMoniker": "JWTAuthJWTBearerWebApi\\Models\\ITRole.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\JWTAuthJWTBearerWebApi\\JWTAuthJWTBearerWebApi\\Models\\ITRole.cs",
+              "RelativeToolTip": "JWTAuthJWTBearerWebApi\\Models\\ITRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:32:01.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

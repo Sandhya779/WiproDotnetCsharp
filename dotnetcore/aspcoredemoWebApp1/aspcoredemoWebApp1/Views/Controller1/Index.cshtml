@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Hello World!!</h1>
+    <table border="1">
+        @ViewData["data"]
+        <tr><th>EXPRESSION</th><th>RESULT</th></tr>
+        @{
+            for(int i = 1; i <= 10; i++){
+                <tr><td>2 X @i = </td><td>@(2*i)</td></tr>
+            }
+        }
+    </table>
+    @@sandhya
+    sandhya@gmail.com
+    @ViewBag.CustomerCode
+    @ViewBag.CustomerName
+</body>
+</html>
+

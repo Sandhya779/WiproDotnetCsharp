@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspcoredemoWebApi", "aspcoredemoWebApi\aspcoredemoWebApi.csproj", "{3AE12735-55FF-46CD-A518-80876A18C67C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{89F635EF-F9C5-42B5-A658-9B04EC41AA1C}"
+	ProjectSection(SolutionItems) = preProject
+		aspcoredemoWebApi\Controllers\Products.cs = aspcoredemoWebApi\Controllers\Products.cs
+		Products.cs = Products.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92364DE9-DCF5-447C-AEF0-270962367C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AE12735-55FF-46CD-A518-80876A18C67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE12735-55FF-46CD-A518-80876A18C67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE12735-55FF-46CD-A518-80876A18C67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE12735-55FF-46CD-A518-80876A18C67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

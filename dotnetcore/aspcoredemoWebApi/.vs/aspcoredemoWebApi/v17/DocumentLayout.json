@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE12735-55FF-46CD-A518-80876A18C67C}|aspcoredemoWebApi\\aspcoredemoWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapi\\aspcoredemowebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE12735-55FF-46CD-A518-80876A18C67C}|aspcoredemoWebApi\\aspcoredemoWebApi.csproj|solutionrelative:aspcoredemowebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F635EF-F9C5-42B5-A658-9B04EC41AA1C}|NewFolder1{89F635EF-F9C5-42B5-A658-9B04EC41AA1C}|C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F635EF-F9C5-42B5-A658-9B04EC41AA1C}|NewFolder1{89F635EF-F9C5-42B5-A658-9B04EC41AA1C}|solutionrelative:Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE12735-55FF-46CD-A518-80876A18C67C}|aspcoredemoWebApi\\aspcoredemoWebApi.csproj|c:\\users\\sandh\\source\\repos\\dotnetcore\\aspcoredemowebapi\\aspcoredemowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE12735-55FF-46CD-A518-80876A18C67C}|aspcoredemoWebApi\\aspcoredemoWebApi.csproj|solutionrelative:aspcoredemowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:12:48.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\aspcoredemoWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "aspcoredemoWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\aspcoredemoWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "aspcoredemoWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:06:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\aspcoredemoWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "aspcoredemoWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Sandh\\source\\repos\\Dotnetcore\\aspcoredemoWebApi\\aspcoredemoWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "aspcoredemoWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:59:17.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

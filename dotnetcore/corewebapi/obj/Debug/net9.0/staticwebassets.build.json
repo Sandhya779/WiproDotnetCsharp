@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "krVUb+woCgwXfexy0TpHSd0IuZf4ZbMBgsqpaDuWQ4E=",
+  "Source": "corewebapi",
+  "BasePath": "_content/corewebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

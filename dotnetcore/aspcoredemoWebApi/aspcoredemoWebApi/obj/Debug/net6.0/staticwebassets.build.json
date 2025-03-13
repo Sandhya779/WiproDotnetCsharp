@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P9XT20n6Tcm+OJCVSQlX1m5Iqc0n5Y+jnO+TOWoN/Gc=",
+  "Source": "aspcoredemoWebApi",
+  "BasePath": "_content/aspcoredemoWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
